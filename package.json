@@ -1,0 +1,14 @@
+{
+  "name": "discord-adambot",
+  "version": "0.0.1",
+  "description": "A bot worthy of the beautiful Adam.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ross Hendry",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
